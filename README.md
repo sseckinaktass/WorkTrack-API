@@ -1,21 +1,10 @@
-# AI Auto Reply API 🤖📩
+# WorkTrack-API 🤖📋
 
-This project is a smart email auto-responder built with FastAPI and HuggingFace's zero-shot classification model.  
-It detects the intent of incoming messages (like offers, meetings, or thank-you notes), checks user availability or leave status, and generates context-aware replies.
-
----
-
-## 🚀 Features
-
-- 📨 Intent detection using transformers (XLM-RoBERTa)
-- 📅 Checks user availability and leave dates
-- ⏰ Suggests free time slots based on user calendar
-- 🧠 Smart auto-reply logic (for thank you, meetings, offers)
-- ⚡ FastAPI backend
+WorkTrack API, çalışanların giriş ve çıkış kayıtlarını takip etmek için geliştirilmiş bir FastAPI + PostgreSQL mikroservisidir.
 
 ---
 
-## 🛠 Technologies
+## 🛠 Teknolojiler
 
 - FastAPI
 - Hugging Face Transformers
