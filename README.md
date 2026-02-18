@@ -72,7 +72,6 @@ Body (JSON):
 ```
 
 Not: check_type alanı yalnızca "IN" veya "OUT" değerlerini alabilir (veritabanında CHECK constraint ile kontrol edilir).
-
 ---
 
 ## 🧠 Author
