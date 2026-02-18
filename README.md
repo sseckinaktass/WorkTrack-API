@@ -7,10 +7,10 @@ WorkTrack API, çalışanların giriş ve çıkış kayıtlarını takip etmek i
 ## 🛠 Teknolojiler
 
 - FastAPI
-- Hugging Face Transformers
+- PostgreSQL
 - Python 3.10+
 - Pydantic
-- JSON-based mock database
+- SQLAlchemy
 
 ---
 
@@ -18,7 +18,7 @@ WorkTrack API, çalışanların giriş ve çıkış kayıtlarını takip etmek i
 
 ### 1. Repo'yu klonlayın
 ```bash
-git clone https://github.com/YOUR_USERNAME/WorkTrack-API.git
+git clone https://github.com/sseckinaktass/WorkTrack-API.git
 cd WorkTrack-API
 ```
 
