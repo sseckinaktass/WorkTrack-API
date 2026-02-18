@@ -66,7 +66,6 @@ Body (JSON):
 {
   "employee_id": 1,
   "check_type": "IN",
-  "check_time": "2026-02-18T09:00:00",
   "device_id": "samsung"
 }
 ```
